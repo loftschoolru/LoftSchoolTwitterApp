@@ -3,10 +3,10 @@
 Разработан в рамках открытого вебинара: http://loftschool.com/webinar
 
 ### Чтобы запустить:
-Для запуска нужно прописать свои приватные ключи в файлах:
-* fabric.properties
+Нужно прописать свои приватные ключи в файлах:
+* fabric.properties (apiSecret, twitterPluginId)
 * AndroidManifest.xml (meta-data)
-* strings.xml
+* strings.xml (twitter_key, twitter_secret)
 
 Рекомендуем ознакомиться с официальной документацией [Fabric](https://docs.fabric.io/android/index.html).
 
@@ -26,7 +26,7 @@
 
     The MIT License (MIT)
 
-    Copyright (c) LoftSchool.
+    Copyright (c) 2016 LoftSchool.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
