@@ -4,9 +4,9 @@
 
 ### Чтобы запустить:
 Для запуска нужно прописать свои приватные ключи в файлах:
-    1. fabric.properties
-    2. AndroidManifest.xml (meta-data)
-    3. strings.xml
+* fabric.properties
+* AndroidManifest.xml (meta-data)
+* strings.xml
 
 Рекомендуем ознакомиться с официальной документацией [Fabric](https://docs.fabric.io/android/index.html).
 
