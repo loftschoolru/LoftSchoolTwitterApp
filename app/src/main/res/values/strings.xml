@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoftSchoolTwitterApp</string>
+    <string name="tweeter_key" translatable="false">"Your's"</string>
+    <string name="tweeter_secret" translatable="false">"Your's"</string>
+</resources>
